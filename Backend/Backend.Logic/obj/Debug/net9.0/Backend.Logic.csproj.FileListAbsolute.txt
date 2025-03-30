@@ -1,0 +1,12 @@
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Logic/bin/Debug/net9.0/Backend.Logic.deps.json
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Logic/bin/Debug/net9.0/Backend.Logic.dll
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Logic/bin/Debug/net9.0/Backend.Logic.pdb
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Logic/obj/Debug/net9.0/Backend.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Logic/obj/Debug/net9.0/Backend.Logic.AssemblyInfoInputs.cache
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Logic/obj/Debug/net9.0/Backend.Logic.AssemblyInfo.cs
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Logic/obj/Debug/net9.0/Backend.Logic.csproj.CoreCompileInputs.cache
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Logic/obj/Debug/net9.0/Backend.Logic.sourcelink.json
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Logic/obj/Debug/net9.0/Backend.Logic.dll
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Logic/obj/Debug/net9.0/refint/Backend.Logic.dll
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Logic/obj/Debug/net9.0/Backend.Logic.pdb
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Logic/obj/Debug/net9.0/ref/Backend.Logic.dll

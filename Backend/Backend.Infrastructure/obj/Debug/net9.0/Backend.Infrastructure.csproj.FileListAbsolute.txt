@@ -1,0 +1,12 @@
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Infrastructure/bin/Debug/net9.0/Backend.Infrastructure.deps.json
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Infrastructure/bin/Debug/net9.0/Backend.Infrastructure.dll
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Infrastructure/bin/Debug/net9.0/Backend.Infrastructure.pdb
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Infrastructure/obj/Debug/net9.0/Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Infrastructure/obj/Debug/net9.0/Backend.Infrastructure.AssemblyInfoInputs.cache
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Infrastructure/obj/Debug/net9.0/Backend.Infrastructure.AssemblyInfo.cs
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Infrastructure/obj/Debug/net9.0/Backend.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Infrastructure/obj/Debug/net9.0/Backend.Infrastructure.sourcelink.json
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Infrastructure/obj/Debug/net9.0/Backend.Infrastructure.dll
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Infrastructure/obj/Debug/net9.0/refint/Backend.Infrastructure.dll
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Infrastructure/obj/Debug/net9.0/Backend.Infrastructure.pdb
+/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.Infrastructure/obj/Debug/net9.0/ref/Backend.Infrastructure.dll
