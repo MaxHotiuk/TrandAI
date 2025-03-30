@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aR6R+pR4OlQ=",
+  "success": true,
+  "projectFilePath": "/Users/maxhotiuk/Desktop/PersonalProjects/TrandAI/Backend/Backend.API/Backend.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/maxhotiuk/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/maxhotiuk/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
